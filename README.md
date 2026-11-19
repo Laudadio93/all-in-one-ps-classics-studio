@@ -2,14 +2,13 @@
 
 **[Download the portable Windows ZIP](https://github.com/Laudadio93/all-in-one-ps-classics-studio/releases/download/source-2026.11.19/PSClassicsStudio.zip)** · [Release notes and source code](https://github.com/Laudadio93/all-in-one-ps-classics-studio/releases/tag/source-2026.11.19)
 
-Redistribution rights for the bundled PS4 emulator components, PS4 package tool, and PS3 placeholder license have not been confirmed.
 
 Prepare PS1 and PS2 games for PS3 or PS4, convert PS2 Classics and PS3 disc images, and build virtual memory cards in one Windows application. The standalone edition runs from a single **PlayStation Classics Studio.exe** on 64-bit Windows. The packaging engines, Windows desktop runtime, memory-card runtime, and blank card templates travel with the executable. End users do not need to install Python, .NET, or companion applications.
 
 | Studio tab | Inputs | Result |
 | --- | --- | --- |
-| PS4 Package Studio | PS1 BIN or raw 2352-byte ISO with matching CUE, or PS2 DVD ISO | PS4 Classics fPKG for a compatible PS4 environment |
-| PS3 Package Studio | Supported PS1 disc images or PS2 DVD ISOs | PS3 Classics PKG for a compatible PS3 environment |
+| PS4 Package Studio | PS1 BIN or raw 2352-byte ISO with matching CUE, or PS2 DVD ISO | PS1 & PS2 Classics fPKG for a compatible PS4 environment |
+| PS3 Package Studio | Supported PS1 disc images or PS2 DVD ISOs | PS1 & PS2 Classics PKG for a compatible PS3 environment |
 | PS2 & PS3 Encrypt / Decrypt | PS2 DVD ISO, PS2 Classics ISO.BIN.ENC, or PS3 disc ISO | Converted image saved as a new file |
 | PS2 Memory Card Studio | PSU, MAX, CBS, SPS, XPS, or PS2 PSV saves | ECC .ps2 or non-ECC .vmc virtual card |
 | PS1 Memory Card Studio | MCS saves or standard raw 128 KiB PS1 memory cards | Raw MCR, MCD, VM1, or VMC card |
