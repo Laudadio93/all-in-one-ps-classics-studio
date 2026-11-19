@@ -1,6 +1,6 @@
 # Building the full Windows application
 
-This repository contains the suite host, both packaging studios, the image converters, the memory-card application and filesystem engine, and the native package-writer accelerator source. The **source snapshot is public**. The **prebuilt Windows executable is pending** because public redistribution permission for certain embedded console components has not been confirmed.
+This repository contains the suite host, both packaging studios, the image converters, the memory-card application and filesystem engine, and the native package-writer accelerator source. The [release page](https://github.com/Laudadio93/all-in-one-ps-classics-studio/releases/tag/source-2026.11.19) includes a portable Windows ZIP.
 
 ## Source layout
 

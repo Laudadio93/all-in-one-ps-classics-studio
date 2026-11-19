@@ -1,8 +1,8 @@
 # Combined-edition release notes
 
-**19 November 2026 · Public source snapshot**
+**19 November 2026 · Combined edition**
 
-GitHub provides the source for this release as ZIP and tar.gz archives. A ready-to-run Windows download is pending confirmation of redistribution rights for several components in the full bundle. The local standalone edition includes its engines, runtimes, and blank cards.
+Download the portable Windows ZIP from the release assets, extract it, and run **PlayStation Classics Studio.exe**. The standalone edition includes its engines, runtimes, and blank cards. GitHub also provides source archives.
 
 This is the first public source snapshot for **All in One PS Classics Studio**. The earlier Package Studio and Memory Card Studio repositories remain separate historical projects. This snapshot documents the integrated Windows application through the PC-only manuals update.
 

@@ -1,6 +1,6 @@
 # All in One PS Classics Studio
 
-**Current download: [source code and release notes](https://github.com/Laudadio93/all-in-one-ps-classics-studio/releases/tag/source-2026.11.19).** The public ZIP contains the source and build guide. The ready-to-run Windows download is pending confirmation of redistribution rights for the bundled PS4 emulator components, PS4 package tool, and PS3 placeholder license.
+**[Download the portable Windows ZIP](https://github.com/Laudadio93/all-in-one-ps-classics-studio/releases/download/source-2026.11.19/PlayStation-Classics-Studio-PC-Manuals.zip)** · [Release notes and source code](https://github.com/Laudadio93/all-in-one-ps-classics-studio/releases/tag/source-2026.11.19)
 
 Prepare PS1 and PS2 games for PS3 or PS4, convert PS2 Classics and PS3 disc images, and build virtual memory cards in one Windows application. The standalone edition runs from a single **PlayStation Classics Studio.exe** on 64-bit Windows. The packaging engines, Windows desktop runtime, memory-card runtime, and blank card templates travel with the executable. End users do not need to install Python, .NET, or companion applications.
 
@@ -14,7 +14,7 @@ Prepare PS1 and PS2 games for PS3 or PS4, convert PS2 Classics and PS3 disc imag
 
 ## Getting started
 
-1. When a Windows release is available, extract its ZIP and open **PlayStation Classics Studio.exe**. The window title and executable use this shorter name. The repository covers the combined five-tab edition.
+1. Download and extract the Windows ZIP, then open **PlayStation Classics Studio.exe**. The window title and executable use this shorter name. The repository covers the combined five-tab edition.
 2. Pick the tab for your **destination**. For example, choose **PS3 Package Studio** to turn a PS2 DVD ISO into a PS3 package. Choose **PS2 Memory Card Studio** to put saves on a virtual card.
 3. Add your own discs or saves, check the detected information, and choose an output location with room for both the result and temporary files. Keep a CUE and all its referenced tracks together.
 4. For game packages, review the build activity and completion location. For Apollo, copy a finished card to the USB directory for its system.
