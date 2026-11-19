@@ -1,6 +1,6 @@
 # All in One PS Classics Studio
 
-**[Download the portable Windows ZIP](https://github.com/Laudadio93/all-in-one-ps-classics-studio/releases/download/source-2026.11.19/PlayStation-Classics-Studio-PC-Manuals.zip)** · [Release notes and source code](https://github.com/Laudadio93/all-in-one-ps-classics-studio/releases/tag/source-2026.11.19)
+**[Download the portable Windows ZIP](https://github.com/Laudadio93/all-in-one-ps-classics-studio/releases/download/source-2026.11.19/PSClassicsStudio.zip)** · [Release notes and source code](https://github.com/Laudadio93/all-in-one-ps-classics-studio/releases/tag/source-2026.11.19)
 
 Redistribution rights for the bundled PS4 emulator components, PS4 package tool, and PS3 placeholder license have not been confirmed.
 
