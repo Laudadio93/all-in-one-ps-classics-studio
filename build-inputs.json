@@ -1,0 +1,212 @@
+[
+  {
+    "path": "PlayStationStudioSuite/Resources/ThirdParty.zip",
+    "bytes": 128899,
+    "sha256": "eb4b51ce238d9d9b654ec3d6148ca536a3e65d0c3f3a7064481c4cd14e156fd7"
+  },
+  {
+    "path": "PlayStationStudioSuite/suite.ico",
+    "bytes": 406134,
+    "sha256": "d1e17b2dbee592230177012ea3a283a32d50e298dc33404d1eedf59bb2f5d812"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/app-icon-32.png",
+    "bytes": 1647,
+    "sha256": "aeb2ec0bd75381b72ebe4347a5d04ea3ce6ebe6834d6945b2826849d7df91593"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/app-icon-48.png",
+    "bytes": 3022,
+    "sha256": "2d7f7fea632ed2a3015d2ba73dc342e143e30730492ff207934031b757cd7cb3"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/app-icon-small.png",
+    "bytes": 637,
+    "sha256": "273f7c200679da444d6c616d5035af3059f6a9346232ee3a14e66f6758c19c93"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/app-icon.ico",
+    "bytes": 86600,
+    "sha256": "ce34e60bc51887dc599288aa5bc9688f74353c8a97d10a4261b3b7c9e34e298d"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/app-icon.png",
+    "bytes": 71498,
+    "sha256": "0bb4daba0c31bcb2be2052b87274b6b7e48e955686c72aa4df42bc01fd372df1"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/playstation-logo.png",
+    "bytes": 687306,
+    "sha256": "bf63ce40f8f5272205e247825ea5de958b3677e277265b597917753b6ad316ae"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/ps1-memory-card.png",
+    "bytes": 2079072,
+    "sha256": "60ec40cb2e268c81188fc9b2ef290724cd64c9fab41e572b627edc45cb97b5e0"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/ps2-memory-card.png",
+    "bytes": 3067970,
+    "sha256": "b14693d117a08d8f74256d8162669f04067e26d3745be9b80869789aae06160f"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/templates-compressed/blank-ps1.mcr",
+    "bytes": 131072,
+    "sha256": "ac0dbcb89e54bcddf7c698fb6fe52cb0ca71977dba2d28e521d6ed556c7a11b5"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/templates-compressed/with ECC/blank 16MiB.ps2.gz",
+    "bytes": 66771,
+    "sha256": "ae39dd521884b418bd50a074f16465734473c8d0edd071ee8faa6e040517e313"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/templates-compressed/with ECC/blank 32MiB.ps2.gz",
+    "bytes": 132552,
+    "sha256": "3df5946c6812c20a2f3b318ccc2b37678a6e36eab37c3f7a2b87cf0476df64a7"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/templates-compressed/with ECC/blank 64MiB.ps2.gz",
+    "bytes": 264141,
+    "sha256": "396f20670e9edfd9c1e6b143ca6ef68d92259d74a86b326a14cb7ce5c235c056"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/templates-compressed/with ECC/blank 8MiB.ps2.gz",
+    "bytes": 33871,
+    "sha256": "01c2364c9602acbd0cf62dfb3a1a551a126977e7c4675b01d92ddb6196c19e13"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/templates-compressed/without ECC/blank 16MiB.bin.gz",
+    "bytes": 16674,
+    "sha256": "66ba090d301ebc1335bcf5a529b71aa0a935cce525c397ffe00c7aee6f2060ba"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/templates-compressed/without ECC/blank 32MiB.bin.gz",
+    "bytes": 33154,
+    "sha256": "4171b2e113b59d83fce16f428cfd246f9251927b02f07654c7da02c7d57fbce2"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/templates-compressed/without ECC/blank 64MiB.bin.gz",
+    "bytes": 66145,
+    "sha256": "b24f441c82eac66d9f7e96b65a7ca6944c9e7daa6af4862a59c8b9ab981a7643"
+  },
+  {
+    "path": "PS2MemoryCardStudio-source/templates-compressed/without ECC/blank 8MiB.bin.gz",
+    "bytes": 8439,
+    "sha256": "eeb7d2b3099b1620776a21e8651b637ebf7e8b1929a1f2c7df582317aa2d4384"
+  },
+  {
+    "path": "PS3StudioPS1/Resources/bin/pdfium.dll",
+    "bytes": 7846912,
+    "sha256": "31d249b8535dd5f351ae7f4b714dc4bb1d76b6069b321a309bc99271dd65f566"
+  },
+  {
+    "path": "PS3StudioPS1/Resources/classics-package-icon.ico",
+    "bytes": 372526,
+    "sha256": "b9744d6f3eae9cd865cf16b5e1df01d983611c1f7e951782c056dabea2fbf6fb"
+  },
+  {
+    "path": "PS3StudioPS1/Resources/pkg-writer.zip",
+    "bytes": 5099371,
+    "sha256": "f5d63d25b0987e30d4a484ed97fb6e78e2a9f3b9b7c3e81ef46bacc40f34da6d"
+  },
+  {
+    "path": "PS3StudioPS1/Resources/playstation-logo.png",
+    "bytes": 868369,
+    "sha256": "0919c53665b4a6b8f055ae827e28607c559900bae7b176e323102f4ea0f14398"
+  },
+  {
+    "path": "PS3StudioPS1/Resources/pop-fe-v1.31.zip",
+    "bytes": 169730938,
+    "sha256": "32751d1152cadcd1a3b76f2f3002be9a89834141a73b34ef128c296a3539fe64"
+  },
+  {
+    "path": "PS3StudioPS1/Resources/ps1-libcrypt.json",
+    "bytes": 2990,
+    "sha256": "5fd2332248c2765c2355f27c76a45492ba9eee539b9b7cd09327764919b90ce9"
+  },
+  {
+    "path": "PS3StudioPS1/Resources/ps1-redump-multitrack.json.gz",
+    "bytes": 1209708,
+    "sha256": "ba8f666b3438da028dd5fbe8ac72d7e38cdb9a2ba9db8e8c8ac1263944af66b9"
+  },
+  {
+    "path": "PS3StudioPS1/Resources/ps2-manual-index.json",
+    "bytes": 88180,
+    "sha256": "115c1980b1920788ac328a1ea5fe1918e4894f2b71f4560e33862d64553338fb"
+  },
+  {
+    "path": "PS3StudioPS1/Resources/ps2-redump.json.gz",
+    "bytes": 406190,
+    "sha256": "66cf272fa6d39cd4adfa94e2fb4fb0cadfa06e5bf22292b310b01535c1d47a9e"
+  },
+  {
+    "path": "PS3StudioPS1/Resources/ps2-toolkit.zip",
+    "bytes": 3755647,
+    "sha256": "fad3639240fb595349f9cc6fba932cf4be03e690a98e64dd4d82d6040dc66391"
+  },
+  {
+    "path": "PS3StudioPS1/Resources/ps3-pkgcrypt.pyd",
+    "bytes": 18432,
+    "sha256": "85dc37298b52c971d916fad9d4bd3e778989f8627c6769c64703d506b2051174"
+  },
+  {
+    "path": "PS3StudioPS1/Resources/widescreen-patches.zip",
+    "bytes": 2703729,
+    "sha256": "ea0a0efe41c5e526419cdf6980b3d49344e939355b63627282089d70cfecdaa8"
+  },
+  {
+    "path": "PS3StudioPS1/Resources/xdelta3.exe",
+    "bytes": 340992,
+    "sha256": "732980d52f9220dc81817ccdd0c295eadce8a0048a24c2a771a73f791ac824e9"
+  },
+  {
+    "path": "PS4StudioSuiteComponent/playstation-logo.png",
+    "bytes": 687306,
+    "sha256": "bf63ce40f8f5272205e247825ea5de958b3677e277265b597917753b6ad316ae"
+  },
+  {
+    "path": "PS4StudioSuiteComponent/PS4StudioIcon.ico",
+    "bytes": 406134,
+    "sha256": "d1e17b2dbee592230177012ea3a283a32d50e298dc33404d1eedf59bb2f5d812"
+  },
+  {
+    "path": "PS4StudioSuiteComponent/Resources/bin/pdfium.dll",
+    "bytes": 7846912,
+    "sha256": "31d249b8535dd5f351ae7f4b714dc4bb1d76b6069b321a309bc99271dd65f566"
+  },
+  {
+    "path": "PS4StudioSuiteComponent/Resources/ps1-redump-multitrack.json.gz",
+    "bytes": 1209708,
+    "sha256": "ba8f666b3438da028dd5fbe8ac72d7e38cdb9a2ba9db8e8c8ac1263944af66b9"
+  },
+  {
+    "path": "PS4StudioSuiteComponent/Resources/ps2-manual-index.json",
+    "bytes": 88180,
+    "sha256": "115c1980b1920788ac328a1ea5fe1918e4894f2b71f4560e33862d64553338fb"
+  },
+  {
+    "path": "PS4StudioSuiteComponent/Resources/ps2-redump.json.gz",
+    "bytes": 406190,
+    "sha256": "66cf272fa6d39cd4adfa94e2fb4fb0cadfa06e5bf22292b310b01535c1d47a9e"
+  },
+  {
+    "path": "PS4StudioSuiteComponent/Resources/ps2classic-source.7z",
+    "bytes": 32549,
+    "sha256": "3e2cb82ca9858d303bfa764d3da9d9ab263790184604844cd400436c4c2d0607"
+  },
+  {
+    "path": "PS4StudioSuiteComponent/Resources/ps3-ps2-crypto.zip",
+    "bytes": 1203822,
+    "sha256": "b0a1c1a496a746b85c51f3b2e00c921136692afc6a761ae7fadfc38277f67ff0"
+  },
+  {
+    "path": "PS4StudioSuiteComponent/Resources/ps4-engine.zip",
+    "bytes": 45248878,
+    "sha256": "d51d5b77b0c8edb3b0dd9e21705ac51da71631a401beacfbe16be6c9c488e6bf"
+  },
+  {
+    "path": "PS4StudioSuiteComponent/Resources/xdelta3.exe",
+    "bytes": 340992,
+    "sha256": "732980d52f9220dc81817ccdd0c295eadce8a0048a24c2a771a73f791ac824e9"
+  }
+]

@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>PS1 and PS2 Classics Package Studio</AssemblyName>
+    <RootNamespace>PS2ClassicsPackageStudio</RootNamespace>
+    <Version>0.7.0</Version>
+    <ApplicationIcon>Resources/classics-package-icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources/pkg-writer.zip" />
+    <EmbeddedResource Include="Resources/ps3-pkgcrypt.pyd" />
+    <EmbeddedResource Include="Resources/pop-fe-v1.31.zip" />
+    <EmbeddedResource Include="Resources/ps2-toolkit.zip" />
+    <Compile Remove="Ps2Manual.cs" />
+    <Compile Include="../PS4StudioSuiteComponent/ManualViewer.cs" Link="ManualViewer.cs" />
+    <EmbeddedResource Include="Resources/widescreen-patches.zip" />
+    <EmbeddedResource Include="Resources/bin/pdfium.dll" />
+    <EmbeddedResource Include="Resources/LICENSE" LogicalName="PS2ClassicsPackageStudio.Resources.PDFium-LICENSE.txt" />
+    <EmbeddedResource Include="Resources/ps2-manual-index.json" />
+    <EmbeddedResource Include="Resources/ps2-redump.json.gz" />
+    <EmbeddedResource Include="Resources/ps1-libcrypt.json" />
+    <EmbeddedResource Include="Resources/ps1-redump-multitrack.json.gz" />
+    <EmbeddedResource Include="Resources/xdelta3.exe" />
+    <EmbeddedResource Include="Resources/XDELTA-LICENSE.txt" />
+    <Resource Include="Resources/playstation-logo.png" />
+    <Resource Include="Resources/classics-package-icon.ico" />
+  </ItemGroup>
+  <ItemGroup><Compile Include="../PackageStudioShared/PackageTool.cs" Link="PackageTool.cs" /></ItemGroup>
+</Project>
+

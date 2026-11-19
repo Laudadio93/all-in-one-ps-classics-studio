@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>WinExe</OutputType><TargetFramework>net10.0-windows</TargetFramework><UseWPF>true</UseWPF><UseWindowsForms>true</UseWindowsForms><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings><ApplicationIcon>suite.ico</ApplicationIcon><AssemblyName>PlayStation Classics Studio</AssemblyName><RootNamespace>ClassicsSuite</RootNamespace></PropertyGroup>
+  <ItemGroup><Resource Include="suite.ico"/></ItemGroup>
+  <ItemGroup><EmbeddedResource Include="Resources\ps3.exe"/><EmbeddedResource Include="Resources\ps4.exe"/><EmbeddedResource Include="Resources\memory.exe"/><EmbeddedResource Include="Resources\ThirdParty.zip"/><EmbeddedResource Include="Resources\Memory-LICENSE.txt"/><EmbeddedResource Include="Resources\Memory-NOTICES.txt"/></ItemGroup>
+  <ItemGroup>
+    <ComponentToHash Include="Resources\ps3.exe;Resources\ps4.exe;Resources\memory.exe" />
+    <EmbeddedResource Include="$(BaseIntermediateOutputPath)component-hashes.txt" LogicalName="ClassicsSuite.Resources.component-hashes.txt" />
+  </ItemGroup>
+  <Target Name="GenerateComponentHashes" BeforeTargets="PrepareResources">
+    <GetFileHash Files="@(ComponentToHash)" Algorithm="SHA256">
+      <Output TaskParameter="Items" ItemName="ComponentHash" />
+    </GetFileHash>
+    <WriteLinesToFile File="$(BaseIntermediateOutputPath)component-hashes.txt" Lines="@(ComponentHash->'%(Filename)%(Extension)=%(FileHash)')" Overwrite="true" WriteOnlyWhenDifferent="true" />
+  </Target>
+</Project>
