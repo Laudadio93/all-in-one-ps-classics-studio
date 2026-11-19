@@ -2,6 +2,8 @@
 
 **[Download the portable Windows ZIP](https://github.com/Laudadio93/all-in-one-ps-classics-studio/releases/download/source-2026.11.19/PlayStation-Classics-Studio-PC-Manuals.zip)** · [Release notes and source code](https://github.com/Laudadio93/all-in-one-ps-classics-studio/releases/tag/source-2026.11.19)
 
+Redistribution rights for the bundled PS4 emulator components, PS4 package tool, and PS3 placeholder license have not been confirmed.
+
 Prepare PS1 and PS2 games for PS3 or PS4, convert PS2 Classics and PS3 disc images, and build virtual memory cards in one Windows application. The standalone edition runs from a single **PlayStation Classics Studio.exe** on 64-bit Windows. The packaging engines, Windows desktop runtime, memory-card runtime, and blank card templates travel with the executable. End users do not need to install Python, .NET, or companion applications.
 
 | Studio tab | Inputs | Result |

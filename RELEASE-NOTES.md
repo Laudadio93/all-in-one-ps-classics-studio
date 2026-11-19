@@ -4,6 +4,8 @@
 
 Download the portable Windows ZIP from the release assets, extract it, and run **PlayStation Classics Studio.exe**. The standalone edition includes its engines, runtimes, and blank cards. GitHub also provides source archives.
 
+Redistribution rights for the bundled PS4 emulator components, PS4 package tool, and PS3 placeholder license have not been confirmed.
+
 This is the first public source snapshot for **All in One PS Classics Studio**. The earlier Package Studio and Memory Card Studio repositories remain separate historical projects. This snapshot documents the integrated Windows application through the PC-only manuals update.
 
 ## Changes from the earlier separate studios

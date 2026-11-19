@@ -2,6 +2,8 @@
 
 This repository contains the suite host, both packaging studios, the image converters, the memory-card application and filesystem engine, and the native package-writer accelerator source. The [release page](https://github.com/Laudadio93/all-in-one-ps-classics-studio/releases/tag/source-2026.11.19) includes a portable Windows ZIP.
 
+Redistribution rights for certain embedded console components have not been confirmed.
+
 ## Source layout
 
 | Directory under `src/` | What it contains |
